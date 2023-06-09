@@ -1,0 +1,46 @@
+#img-div {
+    background-color: #f5f5f0;
+    border: 10px solid #ebebe0;
+    margin-bottom: 10px;
+}
+
+img {
+    box-shadow: 5px 10px 8px #a3a375;
+    padding: 1%;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption {
+    margin: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #6b6b47;
+    text-align: center;
+}
+
+#title{
+    text-align: center;
+    
+}
+
+#m{
+    text-align: center;
+    font-style: italic;
+    font-display: bold;
+    color: blue;
+}
+
+blockquote{
+    font-size: larger;
+    font-style: italic;
+}
+
+.a{
+    list-style-type: circle;
+}
+
+h2{
+    color: blue;
+}
